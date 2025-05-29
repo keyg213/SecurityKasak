@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecurityKasakComposeMockup</string>
+    <string name="login_title">Security Kasak</string>
+    <string name="username_label">Nombre de usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="dashboard_title">Panel de Funciones KASAK</string>
+</resources>
